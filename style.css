@@ -2456,7 +2456,7 @@ h1 {
   display: flex;
   position: absolute;
   inset: auto 0% 0%;
-  transform: translate(85px, -30px);
+  /* transform: translate(85px, -30px); */
 }
 
 .logo-letter-mask {
